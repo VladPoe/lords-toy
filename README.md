@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Lord's Toy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Life creation app
 
 ## Available Scripts
 

@@ -1,0 +1,379 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Basic visual component should be rendered correctly AliveCell valid snapshot 1`] = `
+.c5 {
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0;
+  -webkit-letter-spacing: 0.0015em;
+  -moz-letter-spacing: 0.0015em;
+  -ms-letter-spacing: 0.0015em;
+  letter-spacing: 0.0015em;
+}
+
+.c7 {
+  -webkit-letter-spacing: 0.0025em;
+  -moz-letter-spacing: 0.0025em;
+  -ms-letter-spacing: 0.0025em;
+  letter-spacing: 0.0025em;
+  display: block;
+}
+
+.c1 {
+  padding: 16px;
+  background-color: white;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1 .+ .{
+  margin-left: 16px;
+}
+
+.c1 .c4 + .c6 {
+  margin-top: 3px;
+}
+
+.c2 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-image: linear-gradient(180deg,#FFB800 0%,#FFF7B0 100%);
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c3 {
+  width: 21px;
+  height: 21px;
+  -webkit-transform: translate(-2px,-1px);
+  -ms-transform: translate(-2px,-1px);
+  transform: translate(-2px,-1px);
+}
+
+.c0 {
+  -webkit-animation: 400ms ease-in fLgObN;
+  animation: 400ms ease-in fLgObN;
+}
+
+<div
+  className="c0"
+  type="fromLeft"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className=""
+    >
+      <div
+        className="c2"
+        type="aliveCell"
+      >
+        <img
+          alt="flash"
+          className="c3"
+          height="auto"
+          src="flash.png"
+          type="aliveCell"
+          width="21px"
+        />
+      </div>
+    </div>
+    <div
+      className=""
+    >
+      <h6
+        className="c4 c5"
+      >
+        Живая
+      </h6>
+      <span
+        className="c6 c7"
+      >
+        и шевелится!
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Basic visual component should be rendered correctly Button component valid snapshot 1`] = `
+.c0 {
+  cursor: pointer;
+  color: white;
+  background-color: #5A3472;
+  padding-top: 10px;
+  padding-bottom: 11px;
+  text-transform: uppercase;
+  text-align: center;
+  -webkit-letter-spacing: 0.0125em;
+  -moz-letter-spacing: 0.0125em;
+  -ms-letter-spacing: 0.0125em;
+  letter-spacing: 0.0125em;
+  width: 100%;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  -webkit-transition-property: background-color,color;
+  transition-property: background-color,color;
+  -webkit-transition-duration: 200ms;
+  transition-duration: 200ms;
+}
+
+.c0:hover {
+  background-color: #ffc230;
+  color: #09000e;
+}
+
+@media only screen and (min-width:540px) {
+  .c0 {
+    padding-top: 18px;
+    padding-bottom: 18px;
+  }
+}
+
+<button
+  className="c0"
+  onClick={[Function]}
+  type="submit"
+>
+  test button
+</button>
+`;
+
+exports[`Basic visual component should be rendered correctly DeadCell valid snapshot 1`] = `
+.c5 {
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0;
+  -webkit-letter-spacing: 0.0015em;
+  -moz-letter-spacing: 0.0015em;
+  -ms-letter-spacing: 0.0015em;
+  letter-spacing: 0.0015em;
+}
+
+.c7 {
+  -webkit-letter-spacing: 0.0025em;
+  -moz-letter-spacing: 0.0025em;
+  -ms-letter-spacing: 0.0025em;
+  letter-spacing: 0.0025em;
+  display: block;
+}
+
+.c1 {
+  padding: 16px;
+  background-color: white;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1 .+ .{
+  margin-left: 16px;
+}
+
+.c1 .c4 + .c6 {
+  margin-top: 3px;
+}
+
+.c2 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-image: linear-gradient(180deg,#0D658A 0%,#B0FFB4 100%);
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c3 {
+  width: 21px;
+  height: 21px;
+  -webkit-transform: translate(-1px,0px);
+  -ms-transform: translate(-1px,0px);
+  transform: translate(-1px,0px);
+}
+
+.c0 {
+  -webkit-animation: 500ms linear ehxozz;
+  animation: 500ms linear ehxozz;
+}
+
+<div
+  className="c0"
+  type="tremble"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className=""
+    >
+      <div
+        className="c2"
+        type="deadCell"
+      >
+        <img
+          alt="skull"
+          className="c3"
+          height="auto"
+          src="skull.png"
+          type="deadCell"
+          width="21px"
+        />
+      </div>
+    </div>
+    <div
+      className=""
+    >
+      <h6
+        className="c4 c5"
+      >
+        Мёртвая
+      </h6>
+      <span
+        className="c6 c7"
+      >
+        или прикидывается
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Basic visual component should be rendered correctly Life component valid snapshot 1`] = `
+.c5 {
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0;
+  -webkit-letter-spacing: 0.0015em;
+  -moz-letter-spacing: 0.0015em;
+  -ms-letter-spacing: 0.0015em;
+  letter-spacing: 0.0015em;
+}
+
+.c7 {
+  -webkit-letter-spacing: 0.0025em;
+  -moz-letter-spacing: 0.0025em;
+  -ms-letter-spacing: 0.0025em;
+  letter-spacing: 0.0025em;
+  display: block;
+}
+
+.c1 {
+  padding: 16px;
+  background-color: white;
+  border-radius: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c1 .+ .{
+  margin-left: 16px;
+}
+
+.c1 .c4 + .c6 {
+  margin-top: 3px;
+}
+
+.c2 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-image: linear-gradient(180deg,#AD00FF 0%,#FFB0E9 100%);
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c3 {
+  width: 21px;
+  height: 21px;
+  -webkit-transform: translate(-1px,0px);
+  -ms-transform: translate(-1px,0px);
+  transform: translate(-1px,0px);
+}
+
+.c0 {
+  -webkit-animation: 400ms ease-in ffhdPe;
+  animation: 400ms ease-in ffhdPe;
+}
+
+<div
+  className="c0"
+  type="fadeId"
+>
+  <div
+    className="c1"
+  >
+    <div
+      className=""
+    >
+      <div
+        className="c2"
+        type="life"
+      >
+        <img
+          alt="chicken"
+          className="c3"
+          height="auto"
+          src="chicken.png"
+          type="life"
+          width="21px"
+        />
+      </div>
+    </div>
+    <div
+      className=""
+    >
+      <h6
+        className="c4 c5"
+      >
+        Жизнь
+      </h6>
+      <span
+        className="c6 c7"
+      >
+        Ку-ку!
+      </span>
+    </div>
+  </div>
+</div>
+`;
