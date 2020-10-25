@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/lords-toy/static/js/main.66cd17f6.chunk.js",
+    "main.js.map": "/lords-toy/static/js/main.66cd17f6.chunk.js.map",
+    "runtime-main.js": "/lords-toy/static/js/runtime-main.d51ba679.js",
+    "runtime-main.js.map": "/lords-toy/static/js/runtime-main.d51ba679.js.map",
+    "static/js/2.ec4f1d5a.chunk.js": "/lords-toy/static/js/2.ec4f1d5a.chunk.js",
+    "static/js/2.ec4f1d5a.chunk.js.map": "/lords-toy/static/js/2.ec4f1d5a.chunk.js.map",
+    "static/js/3.24c6b16f.chunk.js": "/lords-toy/static/js/3.24c6b16f.chunk.js",
+    "static/js/3.24c6b16f.chunk.js.map": "/lords-toy/static/js/3.24c6b16f.chunk.js.map",
+    "index.html": "/lords-toy/index.html",
+    "static/js/2.ec4f1d5a.chunk.js.LICENSE.txt": "/lords-toy/static/js/2.ec4f1d5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d51ba679.js",
+    "static/js/2.ec4f1d5a.chunk.js",
+    "static/js/main.66cd17f6.chunk.js"
+  ]
+}
