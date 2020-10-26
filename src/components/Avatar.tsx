@@ -33,13 +33,13 @@ const ALT_TITLES_MAP: Record<TAvatar, string> = {
 
 const ALIGNING: Record<TAvatar, FlattenSimpleInterpolation> = {
   [AVATARS.DEAD_CELL]: css`
-    transform: translate(-1px, 0px);
+    transform: translate(0px, 0px);
   `,
   [AVATARS.ALIVE_CELL]: css`
-    transform: translate(-2px, -1px);
+    transform: translate(-1px, -1px);
   `,
   [AVATARS.LIFE]: css`
-    transform: translate(-1px, 0px);
+    transform: translate(0px, 0px);
   `,
 };
 
